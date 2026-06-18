@@ -1,0 +1,17 @@
+{
+  "dataset_rows": 284807,
+  "dataset_columns": 31,
+  "train_rows": 227845,
+  "test_rows": 56962,
+  "load_time_seconds": 2.027873668999746,
+  "training_time_seconds": 5.492358082999999,
+  "best_iteration": 268,
+  "auc_roc": 0.9642241639199292,
+  "accuracy": 0.9994733330992591,
+  "f1_score": 0.845360824742268,
+  "precision": 0.8541666666666666,
+  "recall": 0.8367346938775511,
+  "inference_latency_1_row_ms": 1.7221590001099685,
+  "inference_time_1000_rows_seconds": 0.004138362000048801,
+  "inference_throughput_rows_per_second": 241641.49970162293
+}
